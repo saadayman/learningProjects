@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saadayman
 - 👀 I’m interested in Learing WEB developing
-- 🌱 I’m currently learning Frontend -Aiming to become a fullstack  web developer
-- 💞️ I’m looking to collaborate on ...
+- I know JavaScript , CSS , HTML;
 - 📫 How to reach me  via facebook account : https://web.facebook.com/saad.ayman.180/ 
                                                     OR 
                                                     VIA E-mail :sa467563@gmail.com
